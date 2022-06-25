@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "284159460764",
+    "project_id": "latihanfirebase-2c658",
+    "storage_bucket": "latihanfirebase-2c658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284159460764:android:596e3640d2d2f45b267459",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284159460764-k7f8iluv7vrne38tvngc88dso682p04k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crudfirebase",
+            "certificate_hash": "69f277a6ca58441d1d14bdd00bac5788618a30ab"
+          }
+        },
+        {
+          "client_id": "284159460764-it33qo94fka7c1vrh2933jiu3bcp89su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIX4pjNjKHiiEMPPzbA7aIHwGBLCqbGXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284159460764-it33qo94fka7c1vrh2933jiu3bcp89su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
